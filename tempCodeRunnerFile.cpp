@@ -1,0 +1,1 @@
+          printf("Coep[%d]=%d\n",p1->exp+p2->exp,Coep[p1->exp+p2->exp]);
